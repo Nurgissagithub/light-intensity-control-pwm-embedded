@@ -78,7 +78,9 @@ This project demonstrates:
 ## Repository Structure
 
 ```
-├── /arduino_code
+├── Light_Control.ino # Arduino Code
+├── light_intensity_control.m # MATLAB Code
+├── light_intensity_polished.xlsx # Polished data for MATLAB Code
 └── README.md
 ```
 
