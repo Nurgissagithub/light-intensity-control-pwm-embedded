@@ -1,4 +1,4 @@
-# Light Intensity Control System using PWM (Arduino + Simulink)
+# Light Intensity Control System using PWM (Arduino + MATLAB)
 
 ## Overview
 
